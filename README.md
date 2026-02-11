@@ -1,0 +1,2 @@
+GAS(Google Apps Script)で使用可能
+Googleニュースで特定のニュースをdiscordに送信されるスクリプトです。
